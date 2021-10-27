@@ -1,6 +1,6 @@
-# Technical Assignment - TODOs
+# TODOs-API
 
-This web application was created as part of the selection process at Comtrade. The application displays TODOs in an HTML table by retrieving JSON data from REST API “/todos” endpoint which is available at [{JSON} Placeholder](https://jsonplaceholder.typicode.com/todos). The user has the ability to log in to the system and can send TODOs to their email. Also, one of the additions to the application is localization, which is available in three languages (English, Bosnian/Croatian/Serbian, Slovenian).
+The application displays TODOs in an HTML table by retrieving JSON data from REST API “/todos” endpoint which is available at [{JSON} Placeholder](https://jsonplaceholder.typicode.com/todos). The user has the ability to log in to the system and can send TODOs to their email. Also, one of the additions to the application is localization, which is available in three languages (English, Bosnian/Croatian/Serbian, Slovenian).
 
 ## Prerequisites
 
@@ -68,9 +68,9 @@ Because there is to many rows in the table, the app also provides the live searc
 ###### Localization
 
 Also Laravel's localization features provide a convenient way to retrieve strings in various languages, allowing you to easily support multiple languages within your application. In this application supported languages are:
-*English
-*Bosnian/Croatian/Serbian and
-\*Slovenian
+English
+Bosnian/Croatian/Serbian and
+Slovenian
 
 ## Contact
 
